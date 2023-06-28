@@ -1,0 +1,14 @@
+** Coste total: 23
+** Asignacion de pasteleros
+==========================
+** [Pedido 1] | Pastelero: 1
+** [Pedido 2] | Pastelero: 4
+** [Pedido 3] | Pastelero: 3
+** [Pedido 4] | Pastelero: 2
+** [Pedido 5] | Pastelero: 3
+** [Pedido 6] | Pastelero: 4
+** [Pedido 7] | Pastelero: 4
+** [Pedido 8] | Pastelero: 1
+** [Pedido 9] | Pastelero: 1
+** [Pedido 10] | Pastelero: 1
+==========================

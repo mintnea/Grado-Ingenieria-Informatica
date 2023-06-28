@@ -1,0 +1,51 @@
+**Peso de la mochila: 1200.0
+** Beneficio total maximizado: 2871.717
+==========================
+** [1] | Peso: 4 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 95.0
+** [2] | Peso: 5 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 58.0
+** [3] | Peso: 8 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 90.0
+** [4] | Peso: 10 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 68.0
+** [5] | Peso: 15 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 98.0
+** [6] | Peso: 13 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 64.0
+** [7] | Peso: 18 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 88.0
+** [8] | Peso: 14 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 64.0
+** [9] | Peso: 15 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 68.0
+** [10] | Peso: 18 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 81.0
+** [11] | Peso: 18 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 79.0
+** [12] | Peso: 13 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 53.0
+** [13] | Peso: 24 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 87.0
+** [14] | Peso: 10 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 36.0
+** [15] | Peso: 20 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 69.0
+** [16] | Peso: 12 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 40.0
+** [17] | Peso: 26 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 85.0
+** [18] | Peso: 10 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 32.0
+** [19] | Peso: 16 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 48.0
+** [20] | Peso: 27 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 80.0
+** [21] | Peso: 33 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 94.0
+** [22] | Peso: 29 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 81.0
+** [23] | Peso: 33 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 89.0
+** [24] | Peso: 37 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 95.0
+** [25] | Peso: 27 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 68.0
+** [26] | Peso: 5 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 12.0
+** [27] | Peso: 24 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 57.0
+** [28] | Peso: 28 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 66.0
+** [29] | Peso: 20 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 46.0
+** [30] | Peso: 23 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 48.0
+** [31] | Peso: 27 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 52.0
+** [32] | Peso: 32 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 57.0
+** [33] | Peso: 44 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 77.0
+** [34] | Peso: 42 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 69.0
+** [35] | Peso: 21 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 33.0
+** [36] | Peso: 20 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 27.0
+** [37] | Peso: 50 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 67.0
+** [38] | Peso: 13 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 17.0
+** [39] | Peso: 42 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 54.0
+** [40] | Peso: 30 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 37.0
+** [41] | Peso: 69 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 78.0
+** [42] | Peso: 58 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 63.0
+** [43] | Peso: 74 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 80.0
+** [44] | Peso: 5 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 5.0
+** [45] | Peso: 6 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 6.0
+** [46] | Peso: 78 | Fraccion en la mochila: 1.0 | Beneficio fraccionado: 78.0
+** [47] | Peso: 53 | Fraccion en la mochila: 0.6415094 | Beneficio fraccionado: 32.71698
+==========================
